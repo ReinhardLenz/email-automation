@@ -8,3 +8,6 @@ the crontab is activated by writing crontab -e in the terminal.
 
 stackoverflow about topic
 https://stackoverflow.com/questions/42114982/environment-variables-when-script-run-by-cron
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ReinhardLenz&repo=email-automation&color=green)
